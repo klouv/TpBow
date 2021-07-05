@@ -1,0 +1,6 @@
+  name: TpBow
+  main: Main
+  version:  1.0
+  commands:
+    tpbow:
+      description: this command give you a TpBow.
